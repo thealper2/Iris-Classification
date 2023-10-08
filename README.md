@@ -1,8 +1,8 @@
-# Inslattion
+# Installation
 ---
 
 ```shell
-# 1. Run main.py
+# 1. Run api/main.py
 python3 main.py
 
 # 2. Run react project
